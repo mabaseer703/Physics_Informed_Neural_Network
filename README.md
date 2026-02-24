@@ -1,3 +1,9 @@
+Copyright (c) Mohammad Abdul Baseer. All rights reserved.
+
+This repository is shared for portfolio/research visibility only.
+No permission is granted to copy, reuse, modify, redistribute, or use this code/data/materials without prior written permission from the author.
+
+If you would like to use any part of this work, please contact me.
 # Physics Informed Neural Network
 
 
